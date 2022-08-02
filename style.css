@@ -26,7 +26,8 @@ h2 {
 .qr-code-section {
     background-color: var(--color-light-gray);
     width: 100%;
-    padding: 5rem 8rem;
+    height: 100vh;
+    padding: 5rem 0;
     margin: auto;
 }
 
